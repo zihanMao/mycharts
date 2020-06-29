@@ -1,1 +1,1 @@
-FROM gcr.io/skippbox/kubectl:v1.3.0 
+FROM gcr.io/spiffe-io/spire-agent:0.10.0
